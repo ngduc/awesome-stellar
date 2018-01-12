@@ -11,7 +11,7 @@ Awesome resources about Stellar ecosystem.
 
 - [Stellar-core](https://github.com/stellar/stellar-core) (C++) - a replicated state machine that maintains a local copy of a cryptographic ledger and processes transactions against it, in consensus with a set of peers. It implements the Stellar Consensus Protocol, a federated consensus protocol.
 
-- (Docker-stellar-core-horizon)[https://github.com/stellar/docker-stellar-core-horizon] - a simple way to incorporate stellar-core and horizon into your private infrastructure, provided that you use docker.
+- [Docker-stellar-core-horizon](https://github.com/stellar/docker-stellar-core-horizon) - a simple way to incorporate stellar-core and horizon into your private infrastructure, provided that you use docker.
 
 #### Java
 

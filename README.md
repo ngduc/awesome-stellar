@@ -13,6 +13,10 @@ Awesome resources about Stellar ecosystem.
 
 - [Docker-stellar-core-horizon](https://github.com/stellar/docker-stellar-core-horizon) - a simple way to incorporate stellar-core and horizon into your private infrastructure, provided that you use docker.
 
+- Tools
+
+  - [Account Viewer](https://www.stellar.org/account-viewer) - official lightweight client to send and receive lumens over the Stellar network.
+
 #### Java
 
 - [Java-stellar-sdk](https://github.com/stellar/java-stellar-sdk) - provides APIs to build transactions and connect to Horizon.
